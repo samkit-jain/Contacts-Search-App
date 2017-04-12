@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="search_title">Search</string>
+    <string name="name_title">Name -</string>
+    <string name="number_title">Number -</string>
+    <string name="email_title">Email -</string>
+    <string name="organization_title">Organization -</string>
+    <string name="note_title">Note -</string>
+    <string name="address_title">Address -</string>
+    <string name="im_title">IM -</string>
+    <string name="id_title">ID -</string>
+    <string name="dialog_title">Contact information</string>
+    <string name="ok">OK</string>
+</resources>
